@@ -1,5 +1,6 @@
 # car-detailing-webapp
 luxury car detailing web app
+
 A responsive, mobile-first website for a professional mobile car detailing business.
 Live website: https://hect0rr0m.github.io/car-detailing-webapp/
 
